@@ -1,0 +1,10 @@
+Package: com.ac3xx.vibrate
+Name: vibrate
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: ac3xx
+Author: ac3xx
+Section: System
+Tag: role::hacker
